@@ -1,0 +1,59 @@
+html, body {
+    margin:0;
+    padding:0;
+    width: 100%;
+    background-color: lightyellow;
+}
+
+header {
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+}
+
+.navegador-header {
+
+
+}
+
+.links-nav-header {
+    width: 800px;
+    padding-top: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+    
+li > a {
+    font-family: 'Staatliches', cursive;
+    text-decoration:none;
+    color: rgb(192, 17, 192);
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px
+    ;
+}  
+
+.header-contacto {
+    
+    background-color: rgb(252, 249, 78);
+    border-radius: 50px ;
+    margin-right: 25px;
+    padding: 5px;
+    
+}
+
+.header-contacto:hover {
+    background-color: rgb(238, 20, 183)
+
+}
+
+h2{
+    color: black;
+}
+
+h1 {
+    color: blueviolet;}
