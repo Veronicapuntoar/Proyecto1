@@ -1,5 +1,5 @@
 html, body {
-    background-color:#e8fa81;
+    background-color:cornsilk;
     margin:0;
     padding:0;
     width: 100%;}
@@ -69,12 +69,6 @@ h1 {
     font-weight: bold;
 }
 
-
-h4 {color:#000000;
-   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   font-size: 25px;
-   font-weight: lighter;}
-
 .lo-que-hago {
     color: #FFFFFF ;
     text-decoration: none;
@@ -85,19 +79,31 @@ h4 {color:#000000;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.header-portada {
- 
-}
+
+
+
 .conocimientos {
-    background-color: #FFFFE0;
+   
+    
+
 }
+
+.grilla-conocimientos {
+   
+}
+
+.item-conocimientos {
+    background-color:#FFFFFF;
+    text-align: center;
+
+}
+
+
+
 
 .cita {
     background-color:#9370DB ;
 }
-
-
-
 }
 footer {
     background-color: #9370DB;
