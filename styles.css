@@ -1,25 +1,24 @@
 html, body {
+    background-color:#e8fa81;
     margin:0;
     padding:0;
-    width: 100%;
-    background-color:#FFFFFF;
-}
+    width: 100%;}
 
 .top-nav{
+    align-items: center;
+    background-color:#FFFFFF;
     display:flex;
     justify-content: flex-end;
-    align-items: center;
-    width: 100%;
-    background-color:#FFFFFF;
-}
+    position: fixed;
+    width: 100%;}
 
 .links-top-nav {
-    width: 800px;
-    padding-top: 20px;
-    list-style: none;
-    display: flex;
-    justify-content: flex-end;
     align-items: center;
+    display: flex;
+    list-style: none; 
+    justify-content: flex-end;
+    padding-top: 20px;
+    width: 800px;
 }
     
 .link-top-nav a {
@@ -44,11 +43,18 @@ html, body {
     background-color:#fac822; }
 
 .introduccion {
+    background-color: aqua;
     align-items: center;
     display: flex;
     justify-content:center;
-    margin-left: 70px;
-    margin-right: 70px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 150px;
+}
+
+.header-portada {
+
 }
 
 h2{
